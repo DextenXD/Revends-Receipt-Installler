@@ -10,4 +10,5 @@ THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPL
 
 By using this software, you agree to be bound by these terms.
 
-For questions, contact: https://discord.gg/WhV7tDb8jv
+For questions, contact: 
+https://discord.gg/WhV7tDb8jv
