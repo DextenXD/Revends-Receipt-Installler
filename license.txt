@@ -1,0 +1,13 @@
+Copyright (c) 2025 ReVends Productions
+
+All rights reserved.
+
+This software is proprietary and confidential. Unauthorized copying, modification, distribution, or use of this software, in whole or in part, is strictly prohibited without the express written permission of ReVends Productions.
+
+You may not modify, reverse-engineer, decompile, or create derivative works based on this software. This software is licensed, not sold.
+
+THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OF THIS SOFTWARE.
+
+By using this software, you agree to be bound by these terms.
+
+For questions, contact: https://discord.gg/WhV7tDb8jv
