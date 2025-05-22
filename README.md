@@ -1,6 +1,6 @@
-=====================================================
+=================================================
                ReVends Receipt Generator
-=====================================================
+=================================================
 
 Thank you for choosing ReVends — your trusted solution for generating professional-looking order confirmation receipts.
 
